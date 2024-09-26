@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://olympusgacor.github.io/maxwin/sitemap.xml
